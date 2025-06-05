@@ -30,6 +30,6 @@
 
 ## 📞 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomarquescorrea/)
+💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomarquescorrea/)  
 📧 **E-mail:** educorreia136@gmail.com  
-🔗 [Meu repositório no GitHub](https://github.com/Edu136)
+📌 **Meu repositório no GitHub:** [Edu136](https://github.com/Edu136)
