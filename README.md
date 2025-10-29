@@ -5,7 +5,7 @@
 - **Zoolingo** - Quiz interativo para aprendizagem de animais. 📱🦜
 - **Avaliação de Atendimento** - Sistema para avaliação do atendimento da secretaria e setor financeiro da Unisagrado. 🏫💼
 - **Previsão do Tempo** - Sistema que mostra em tempo real as condições climáticas e futuras previsões. 🌤️🌡️
-- **Microserviço de usuários** - Servicço de criação, monitoramente e autenticação de usuários como banco NoSQL.
+- **Microserviço de usuários** - Serviço de criação, monitoramente e autenticação de usuários com banco NoSQL.
 
 ---
 
